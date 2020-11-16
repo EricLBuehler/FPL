@@ -1,0 +1,1 @@
+10~print~1|20~return~|30~print~2|40~return~|50~print~3|60~return~|70~gosub~10|80~gosub~50|90~gosub~30|0~ss~|65~sd~

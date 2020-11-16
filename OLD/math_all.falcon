@@ -1,0 +1,1 @@
+10 var var1,10|20 var var2,5|30 var var3,0|40 add var1,var2,var3|50 subtract var1,var2,var4|60 multiply var1,var2,var5|70 divide var1,var2,var6|80 exponent var1,var2,var7|90 print Add:|100 printvar var3|110 print Subtract:|120 printvar var4|130 print Multiply:|140 printvar var5|150 print Divide:|160 printvar var6|170 print Exponent:|180 printvar var7|190 end n
